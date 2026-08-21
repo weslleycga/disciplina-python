@@ -16,7 +16,7 @@ Parte 2:
 4: Média de notas: Recebe 3 notas via input(), calcula e imprime a média com 2 casas ✅
 
 
-5: Calculadora de desconto: Recebe preço e percentual de desconto, imprime o preço final
+5: Calculadora de desconto: Recebe preço e percentual de desconto, imprime o preço final ✅
 
 6: Inversor de nome: Recebe um nome e imprime invertido usando slicing [::-1]
 
