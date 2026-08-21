@@ -2,6 +2,7 @@ Neste repositorio estarei adicionando os mini desafios da disciplina de python
 desafios realizados:
 
 Parte 1:
+
 1: Calculadora de troco: Recebe valor da compra e valor pago, calcula o troco ✅
 ​
 2: Conversor de tempo: Recebe segundos e imprime em horas, minutos e segundos
