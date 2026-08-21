@@ -4,7 +4,7 @@ desafios realizados:
 Parte 1:
 
 1: Calculadora de troco: Recebe valor da compra e valor pago, calcula o troco ✅
-​
+
 2: Conversor de tempo: Recebe segundos e imprime em horas, minutos e segundos
 
 3: Par ou ímpar: Recebe um número inteiro e informa se é par ou ímpar (%)
