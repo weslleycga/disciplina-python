@@ -5,13 +5,16 @@ Parte 1:
 
 1: Calculadora de troco: Recebe valor da compra e valor pago, calcula o troco ✅
 
-2: Conversor de tempo: Recebe segundos e imprime em horas, minutos e segundos
+2: Conversor de tempo: Recebe segundos e imprime em horas, minutos e segundos ✅
 
-3: Par ou ímpar: Recebe um número inteiro e informa se é par ou ímpar (%)
+
+3: Par ou ímpar: Recebe um número inteiro e informa se é par ou ímpar (%) ✅
+
 
 Parte 2:
 
-4: Média de notas: Recebe 3 notas via input(), calcula e imprime a média com 2 casas
+4: Média de notas: Recebe 3 notas via input(), calcula e imprime a média com 2 casas ✅
+
 
 5: Calculadora de desconto: Recebe preço e percentual de desconto, imprime o preço final
 
